@@ -1,0 +1,5 @@
+static/images/
+dataset/test/
+dataset/train/
+saver/checkpoint saver/model_epoch_5.ckpt.data-00000-of-00001 saver/model_epoch_5.ckpt.index saver/model_epoch_5.ckpt.meta
+hamming_train_vectors.pickle
